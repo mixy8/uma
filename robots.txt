@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mixy8.github.io/uma/sitemap.xml
