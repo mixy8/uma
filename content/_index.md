@@ -6,8 +6,8 @@ description: "Uma cheat sheet for daily reference"
 | Resources           | Details           |
 |----------------|----------------|
 | [**New Testament**](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0#heading=h.3nz0tg31fmuc)           | Psalm 20:7 (Global)           |
-| [**CM Reading**](https://docs.google.com/document/d/15Ihvk2BuhoLbQDNyCPOcvgxSzuj-cL16g8V5ZgM_HeA/edit?tab=t.p7haidecx6j4)     |   raincndy   |
-| [**CM 1 Deck Lists**](https://docs.google.com/spreadsheets/d/1SYe67CJLQe8UM4N6TFLkKUgwhwTQMTC3KyTYJVjb_MI/edit?gid=361956466#gid=361956466)           | hoi_boi           |
+| [**CM Reading**](https://docs.google.com/document/d/1r3qGruF2GCc_NRW6NYS7gOcQDQMaCJYYD5dWTQdt7yk/edit?tab=t.i6ivksnnyvyy)     |     |
+| [**CM 2 Deck Lists**](https://docs.google.com/spreadsheets/d/1grES4GKQUfOLsvQJezDWVYRnouWVchAlRX9ml9gOlTI/edit?gid=2129322328#gid=2129322328)           |         |
 | [**PureDB**](https://uma-global.pure-db.com/)           |   Friend Search Index |
 | [Support Card Tier List](https://euophrys.github.io/uma-tiers/#/global)      |            euophrys (Does not account for skills, purely stats)             |
 | [Skill Spreadsheet](https://docs.google.com/spreadsheets/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview?usp=drivesdk)     | dylank0 |
