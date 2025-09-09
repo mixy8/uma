@@ -6,8 +6,7 @@ description: "Uma cheat sheet for daily reference"
 | Resources           | Details           |
 |----------------|----------------|
 | [**New Testament**](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0#heading=h.3nz0tg31fmuc)           | Psalm 20:7 (Global)           |
-| [**CM Reading**](https://docs.google.com/document/d/1r3qGruF2GCc_NRW6NYS7gOcQDQMaCJYYD5dWTQdt7yk/edit?tab=t.i6ivksnnyvyy)     |     |
-| [**CM 2 Deck Lists**](https://docs.google.com/spreadsheets/d/1grES4GKQUfOLsvQJezDWVYRnouWVchAlRX9ml9gOlTI/edit?gid=2129322328#gid=2129322328)           |         |
+| [**CM by Moomoocow**](https://www.canva.com/design/DAGtOO4KsO4/Koz7xqxxQvpicG84ABIZXw/edit) | Scroll to find the CM stuff |
 | [**PureDB**](https://uma-global.pure-db.com/)           |   Friend Search Index |
 | [Support Card Tier List](https://euophrys.github.io/uma-tiers/#/global)      |            euophrys (Does not account for skills, purely stats)             |
 | [Skill Spreadsheet](https://docs.google.com/spreadsheets/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview?usp=drivesdk)     | dylank0 |
